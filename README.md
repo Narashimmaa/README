@@ -1,14 +1,16 @@
 # README
 # Hi, I'm Narashimmaa R K
+Second-year B.Tech ECE student at SRM Institute of Science and Technology.
+Electronics Developer at Team Rudra, SRM's official Mars rover team.
 
-I am an ECE student specializing in embedded systems, PCB design, VLSI, Robotics and Drones
+**Interests:** embedded systems, PCB design, robotics, drones and wireless communication
 
 ### 🛠️ Hardware & Firmware Stack
-* **EDA Tools:** Easyeda, Altium Designer, LTspice, Autocad, Auto Fusion, Logisim
-* **Microcontrollers:** STM32, ESP32, Arduino,
-* **SBC:** Raspberry pi 5, Latte Panda 3 delta
-* **Languages:** C, Python
-* **Communications and Networking:** Ubiquiti airmaxx, Microtek Groove, TP link
+**EDA Tools:** Easyeda, Altium Designer, LTspice, Autocad, Auto Fusion, Logisim
+**Microcontrollers:** STM32, ESP32, Arduino,
+**SBC:** Raspberry pi 5, Latte Panda 3 delta
+**Languages:** C, Python
+**Communications and Networking:** Ubiquiti airmaxx, Microtek Groove, TP link
 
 ### 🚀 Currently Working On
 * Developing a drone
